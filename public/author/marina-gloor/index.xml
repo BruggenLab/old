@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marina Gloor | Bruggen Research Group @ University of Zurich</title>
+    <link>https://example.com/author/marina-gloor/</link>
+      <atom:link href="https://example.com/author/marina-gloor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marina Gloor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu1c243663a46ad1ec416cef6d4d5c702f_55418_512x512_fill_lanczos_center_3.png</url>
+      <title>Marina Gloor</title>
+      <link>https://example.com/author/marina-gloor/</link>
+    </image>
+    
+  </channel>
+</rss>
